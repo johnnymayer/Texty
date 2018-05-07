@@ -1,0 +1,10 @@
+C:\Users\epicodus\Desktop\Texty\Texty\bin\Debug\netcoreapp1.1\Texty.deps.json
+C:\Users\epicodus\Desktop\Texty\Texty\bin\Debug\netcoreapp1.1\Texty.runtimeconfig.json
+C:\Users\epicodus\Desktop\Texty\Texty\bin\Debug\netcoreapp1.1\Texty.runtimeconfig.dev.json
+C:\Users\epicodus\Desktop\Texty\Texty\bin\Debug\netcoreapp1.1\Texty.dll
+C:\Users\epicodus\Desktop\Texty\Texty\bin\Debug\netcoreapp1.1\Texty.pdb
+C:\Users\epicodus\Desktop\Texty\Texty\obj\Debug\netcoreapp1.1\Texty.csproj.CoreCompileInputs.cache
+C:\Users\epicodus\Desktop\Texty\Texty\obj\Debug\netcoreapp1.1\Texty.AssemblyInfoInputs.cache
+C:\Users\epicodus\Desktop\Texty\Texty\obj\Debug\netcoreapp1.1\Texty.AssemblyInfo.cs
+C:\Users\epicodus\Desktop\Texty\Texty\obj\Debug\netcoreapp1.1\Texty.dll
+C:\Users\epicodus\Desktop\Texty\Texty\obj\Debug\netcoreapp1.1\Texty.pdb
